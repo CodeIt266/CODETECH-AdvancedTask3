@@ -47,3 +47,4 @@ Key Insights:-
 The Penetration Testing Toolkit enables security professionals to simulate real-world attacks, identify vulnerabilities, and strengthen system defenses proactively. Its modular design supports a range of tasks like port scanning, brute force attacks, and vulnerability testing, ensuring adaptability to diverse security needs. Automation enhances testing efficiency and coverage, making it ideal for assessing complex systems. By leveraging the toolkit, organizations can improve resilience against cyberattacks, fortify infrastructure, and achieve compliance with security standards effectively.
 
 OUTPUT OF THE TASK:
+![WhatsApp Image 2025-01-05 at 12 16 04_b6df32e3](https://github.com/user-attachments/assets/ee0c44f7-2797-4d86-a3fc-c1098b5c5096)
